@@ -1,0 +1,5 @@
+D:\JapDaily\Build\JapDailyWPF.exe
+D:\JapDaily\Build\JapDailyWPF.dll
+D:\JapDaily\Build\JapDailyWPF.deps.json
+D:\JapDaily\Build\JapDailyWPF.runtimeconfig.json
+D:\JapDaily\Build\JapDailyWPF.pdb
