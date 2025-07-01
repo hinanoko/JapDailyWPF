@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\JapDaily\JapDailyWPF\JapDailyWPF\App.xaml
-11407045341
+21953973620
 
-42028315507
+51440582048
 203600708821
-MainWindow.xaml;
+MainWindow.xaml;src\Pages\HomeView.xaml;
 
 False
 

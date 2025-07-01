@@ -26,3 +26,6 @@ D:\JapDaily\JapDailyWPF\JapDailyWPF\obj\Debug\net8.0-windows\App.baml
 D:\JapDaily\JapDailyWPF\JapDailyWPF\obj\Debug\net8.0-windows\JapDaily.8149A3F7.Up2Date
 D:\JapDaily\JapDailyWPF\JapDailyWPF\bin\Debug\net8.0-windows\Wpf.Ui.dll
 D:\JapDaily\JapDailyWPF\JapDailyWPF\bin\Debug\net8.0-windows\Wpf.Ui.Abstractions.dll
+D:\JapDaily\JapDailyWPF\JapDailyWPF\obj\Debug\net8.0-windows\src\Pages\HomeView.g.cs
+D:\JapDaily\JapDailyWPF\JapDailyWPF\obj\Debug\net8.0-windows\src\Pages\HomeView.baml
+D:\JapDaily\JapDailyWPF\JapDailyWPF\obj\Debug\net8.0-windows\JapDailyWPF.sourcelink.json
